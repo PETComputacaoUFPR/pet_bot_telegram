@@ -17,20 +17,11 @@ Caso já tenha conversado com o bot, basta enviar a mensagem `/start`
 
 ## Projeto
 
-### 📦 Packages
-Para modificar e utilizar o código em seu computador, você vai precisar dos seguintes pacotes:
-
-* python-telegram-bot 
-* Pillow
-* numpy
-* nltk
-* tensorflow
-* tflearn
-
-Para instalar esses pacotes:
+### 📦 Pacotes
+Para modificar e utilizar o código em seu computador, você vai precisar de alguns pacotes pacotes:
 
 ```console
-$ pip install <package_name>
+pip install -r requirements.txt
 ```
 
 ![PET Comptação UFPR](./img/petcompufpr.png)
