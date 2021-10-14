@@ -1,0 +1,144 @@
+{
+    "intents": [
+    {
+        "tag": "comprimento",
+        "patterns": [
+            "Olá",
+            "Ola",
+            "Oi",
+            "Hello",
+            "Como vai?",
+            "Oii"
+        ],
+        "responses": [
+            "Olá",
+            "Oi",
+            "Saudações",
+            "Olá, como posso ajudar?"
+        ]
+    },
+    {
+        "tag": "despedida",
+        "patterns": [
+            "Tchau",
+            "Até mais",
+            "Até logo",
+            "Adeus",
+            "Bye"
+        ],
+        "responses": [
+            "Até mais!",
+            "Até a próxima!",
+            "Quando precisar, estarei aqui"
+        ]
+    },
+    {
+        "tag": "agradecimento",
+        "patterns": [
+            "Obrigado",
+            "Valeu",
+            "Muito obrigado",
+            "Thanks",
+            "obg",
+            "obgd"
+        ],
+        "responses": [
+            "Quando precisar, estarei aqui",
+            "Disponha"
+        ]
+    },
+    {
+        "tag": "inicio",
+        "patterns": [
+            "Tudo bem",
+            "Estou bem",
+            "Tudo certo",
+            "Tudo ótimo",
+            "Preciso de ajuda",
+            "Bem. e você?"
+        ],
+        "responses": [
+            "Ótimo! Como posso te ajudar?",
+            "Beleza! Posso te ajudar?"
+        ]
+    },
+    {
+        "tag": "pet computação",
+        "patterns": [
+            "O que é o PET?",
+            "O que é o PET Computação?",
+            "Sobre o PET Computação UFPR",
+            "Informações do grupo",
+            "Saber mais sobre",
+            "Como funciona o PET?"
+        ],
+        "responses": [
+            "O PET Computação é um grupo de graduandos em Ciência da Computação e Informática Biomédica interessados em ampliar o conhecimento além do que é oferecido pelos cursos do Departamento de Informática por meio das condições para a realização de atividades extracurriculares fornecidas",
+            "O PET Computação é um grupo de estudantes de BCC e IBM do Departamento de Informática da UFPR, o qual trabalha com projetos de Ensino, Pesquisa, Extensão e Desenvolvimento de Software"
+        ]
+    },
+    {
+        "tag": "projetos",
+        "patterns": [
+            "Projetos do PET",
+            "Projetos do grupo",
+            "Atividades do PET Computação UFPR",
+            "Quais são os projetos",
+            "Com o que vocês trabalham?",
+            "Com o que o grupo trabalha?",
+            "Sobre os projetos",
+            "O que vocês fazem?",
+            "O que o PET faz?"
+        ],
+        "responses": [
+            "O grupo trabalha com projetos de Ensino, Pesquisa, Extensão e Desenvolvimento de Software. \nSão diversos projetos e você pode conhecer mais de sobre eles em nosso site http://web.inf.ufpr.br/pet/ ou então nas nossas redes sociais @petcompufpr",
+            "O PET Computação trabalha com diversos projetos relacionados à área da tecnologia, nos eixos de Pesquisa, Ensino e Extensão. Mais informações sobre os projetos em http://web.inf.ufpr.br/pet/ ou nas redes sociais @petcompufpr"
+        ]
+    },
+    {
+        "tag": "dinf",
+        "patterns": [
+            "O que é DINF?",
+            "Departamento de Informática",
+            "Onde fica o dinf?",
+            "Onde preciso ir?",
+            "Tenho que ir?",
+            "Em que lugar começa?"
+        ],
+        "responses": [
+            "O Departamento de Informática (DInf) fica nesse local: \n https://bit.ly/3APrQWo"
+        ]   
+    },
+    {
+        "tag": "calouro",
+        "patterns": [
+            "Semana de Calouros",
+            "Primeira semana de aula",
+            "Introdução e palestras",
+            "Aluno novo",
+            "Sou novato",
+            "Como funciona a semana de calouros",
+            "Como é a semana inicial?"
+        ],
+        "responses": [
+            "É uma semana de cursos, palestras e atividades para tirar dúvidas sobre a vida acadêmica, se familiarizar com a universidade e com o curso.\n🕐 Horário: 13h30 às 18h00 \n📍Local: em frente ao Departamento de Informática da UFPR, no Centro Politécnico \nhttps://web.inf.ufpr.br/pet/calouros/",
+            "A Semana de Recepção Calouros serve para ambientação dos novos estudantes de BCC e IBM.\n🕐 Horário: 13h30 às 18h00 \n📍Local: em frente ao Departamento de Informática da UFPR, no Centro Politécnico \nhttps://web.inf.ufpr.br/pet/calouros/"
+        ]   
+    },      
+    {
+        "tag": "candidato",
+        "patterns": [
+            "Inscrever no PET",
+            "Processo seletivo",
+            "Entrar no PET",
+            "Quero ser um petiano",
+            "Posso fazer parte do PET",
+            "Integrante PET Computação"
+        ],
+        "responses": [
+            "Para se tornar um integrante do grupo PET Computação você precisa se inscrever em nosso processo seletivo: 👨‍💻 https://web.inf.ufpr.br/pet/",
+            "Para se juntar a família PET você precisa se inscrever em nosso edital: 👨‍💻 https://web.inf.ufpr.br/pet/"
+        ]   
+    }
+    ]
+}
